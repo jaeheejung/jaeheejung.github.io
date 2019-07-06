@@ -3,10 +3,12 @@ layout: page
 title: Teaching
 ---
 
+My teaching interests are in comparative politics and quantitative methods. I am passionate about teaching and have received formalized training in pedagogy.
+
 #### Instructor
 
 PS102: Comparative Politics, Fall 2017
-- [Evaluations](https://www.dropbox.com/s/iahufi84zhapknm/Evals-U25-102-14lv2lx.pdf?dl=0)
+- [Evaluations](https://www.dropbox.com/s/iahufi84zhapknm/Evals-U25-102-14lv2lx.pdf?dl=0)<br/>
 
 #### Teaching Assistant
 
