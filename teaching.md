@@ -8,7 +8,10 @@ My teaching interests are in comparative politics and quantitative methods. I am
 #### Instructor
 
 PS102: Comparative Politics, Fall 2017
-- [Evaluations](https://www.dropbox.com/s/iahufi84zhapknm/Evals-U25-102-14lv2lx.pdf?dl=0)<br/>
+- [Evaluations](https://www.dropbox.com/s/iahufi84zhapknm/Evals-U25-102-14lv2lx.pdf?dl=0)
+
+
+
 
 #### Teaching Assistant
 
