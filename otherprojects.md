@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dissertation
+title: Other Projects
 ---
 
 #### Under Review
