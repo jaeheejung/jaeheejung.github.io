@@ -11,6 +11,9 @@ PS102: Comparative Politics, Fall 2017 [(Evaluations)](https://www.dropbox.com/s
 
 PS363: Quantitative Political Methodology (Instructor: Jacob Montgomery), Fall 2016
 
+- Evaluations from entire class
+- Evaluations from section
+
 PS102: Introduction to Comparative Politics (Instructor: Brian F. Crisp), Spring 2016
 
 PS321: Comparative European Politics (Instructor: Margit Tavits), Fall 2015
