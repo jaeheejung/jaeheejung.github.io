@@ -22,7 +22,7 @@ description:
 navbar-links:
   CV: "cv"
   Research:
-    - Dissertation: "http://deanattali.com/beautiful-jekyll/"
+    - Dissertation: "dissertation"
     - Other Projects: "http://www.markdowntutorial.com/"
   Teaching:
 
