@@ -20,7 +20,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "aboutme"
+  CV: "cv"
   Research:
     - Dissertation: "http://deanattali.com/beautiful-jekyll/"
     - Other Projects: "http://www.markdowntutorial.com/"
