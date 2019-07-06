@@ -11,12 +11,12 @@ Jung, Jae-Hee and Margit Tavits. "[Valence Attacks Harm the Electoral Performanc
 
 #### Working Papers
 
-Jung, Jae-Hee and Zeynep Somer-Topcu. ?Party Policy Shifts and Voter Uncertainty.?
+Jung, Jae-Hee and Zeynep Somer-Topcu. ``Party Policy Shifts and Voter Uncertainty."
 
-Jung, Jae-Hee and Margit Tavits. ?Do Referendums Change Voter Attitudes??
+Jung, Jae-Hee and Margit Tavits. ``Do Referendums Change Voter Attitudes?"
 
 #### Work in Progress
 
-Jung, Jae-Hee. ?The Persuasiveness of Parties? Moral Rhetoric.?
+Jung, Jae-Hee. ``The Persuasiveness of Parties? Moral Rhetoric."
 
-Jung, Jae-Hee and Margit Tavits. ?Gender Norm Violations and Attitudes toward Equality.?
+Jung, Jae-Hee and Margit Tavits. ``Gender Norm Violations and Attitudes toward Equality."
