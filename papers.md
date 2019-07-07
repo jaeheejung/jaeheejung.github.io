@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dissertation
+title: Papers
 ---
 
 #### Under Review
