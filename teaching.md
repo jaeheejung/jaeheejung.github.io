@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-My teaching interests are in comparative politics and quantitative methods. I am passionate about teaching and have received formalized training in pedagogy.
+My teaching interests are in comparative politics and quantitative methods. I am passionate about teaching and have received formalized training in pedagogy through the [Preparation in Pedagogy](https://teachingcenter.wustl.edu/programs/graduate-students-postdocs/professional-development/preparation-in-pedagogy-pip/) program.
 
 #### Instructor
 
