@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dissertation
+title: Book Project
 subtitle: Moral Rhetoric in Party Campaigns
 ---
 
