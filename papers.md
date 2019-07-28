@@ -13,8 +13,6 @@ Jung, Jae-Hee and Margit Tavits. "Do Referendums Change Voter Attitudes?" _Under
 
 Jung, Jae-Hee and Zeynep Somer-Topcu. "Party Policy Shifts and Voter Uncertainty."
 
-#### Work in Progress
+Jung, Jae-Hee. "Moral Representation and Party Favorability."
 
-Jung, Jae-Hee. "The Persuasiveness of Parties' Moral Rhetoric."
-
-Jung, Jae-Hee and Margit Tavits. "Gender Norm Violations and Attitudes toward Equality."
+Jung, Jae-Hee and Margit Tavits. "Gender Norm Violation and Attitudes toward Equality."
