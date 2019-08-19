@@ -4,7 +4,7 @@
 title: Jae-Hee Jung
 
 # Short description of your site
-description: 
+description: University of Oxford
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -146,7 +146,7 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: ""
+title-separator: "|"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
