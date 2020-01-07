@@ -70,6 +70,7 @@ author:
 social-network-links:
   email: "jae-hee.jung@bsg.ox.ac.uk"
   twitter: jung_jaehee_
+  google-scholar: "citations?user=ggxYjkUAAAAJ&hl=en"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -88,6 +89,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  google-scholar: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
