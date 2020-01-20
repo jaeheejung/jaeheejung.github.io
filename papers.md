@@ -11,7 +11,7 @@ Jung, Jae-Hee. 2019. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 
 #### Working Papers
 
-Jung, Jae-Hee and Zeynep Somer-Topcu. "United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions." _Under review_.
+Jung, Jae-Hee and Zeynep Somer-Topcu. "United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions." _Revise and resubmit_.
 
 Jung, Jae-Hee and Margit Tavits. "Do Referendums Change Voter Attitudes?"
 
