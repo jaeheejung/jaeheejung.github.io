@@ -17,6 +17,4 @@ Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gende
 
 Jung, Jae-Hee and Margit Tavits. "Do Referendums Change Voter Attitudes?"
 
-#### Work in Progress
-
-Jung, Jae-Hee. "Moral Representation and Party Favorability."
+Jung, Jae-Hee. "Voters' Preferences for Moral Representation."
