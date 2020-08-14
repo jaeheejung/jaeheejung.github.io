@@ -21,9 +21,7 @@ description: University of Oxford
 # List of links in the navigation bar
 navbar-links:
   CV: "https://www.dropbox.com/s/g0peu87q5x7uxof/Jung_CV.pdf?dl=0"
-  Research:
-    - Book Project: "dissertation"
-    - Other Projects: "otherprojects"
+  Research: "otherprojects"
   Papers: "papers"
   Teaching: "teaching"
 
