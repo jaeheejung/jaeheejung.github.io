@@ -15,6 +15,6 @@ Jung, Jae-Hee and Zeynep Somer-Topcu. "United We Stand, Divided We Fall? The Eff
 
 Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality." _Under review_.
 
-Jung, Jae-Hee and Margit Tavits. "Do Referendums Change Voter Attitudes?"
+Jung, Jae-Hee and Margit Tavits. "Do Referendums Change Voter Attitudes?" _Under review_.
 
 Jung, Jae-Hee. "Voters' Preferences for Moral Representation."
