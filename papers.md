@@ -5,7 +5,7 @@ title: Papers
 
 #### Publications
 
-Jung, Jae-Hee and Zeynep Somer-Topcu. "[United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions](https://www.dropbox.com/s/l99vz5ujglgm6m3/JungSomer-Topcu_brexit.pdf?dl=0)." _Accepted at the Journal of Elections, Public Opinion & Parties_.
+Jung, Jae-Hee and Zeynep Somer-Topcu. Forthcoming. "[United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions](https://www.dropbox.com/s/l99vz5ujglgm6m3/JungSomer-Topcu_brexit.pdf?dl=0)." _Accepted at the Journal of Elections, Public Opinion & Parties_.
 
 Jung, Jae-Hee and Margit Tavits. 2020. "[Valence Attacks Harm the Electoral Performance of the Left but not the Right](https://doi.org/10.1086/709299)." _Journal of Politics_ https://<i></i>doi.org/10.1086/709299. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml;jsessionid=6be1e4de9fa24c22a5b7981e7e1d?persistentId=doi%3A10.7910%2FDVN%2FHMI4WY&version=&q=&fileTypeGroupFacet=&fileAccess=Public&fileSortField=type).
 
