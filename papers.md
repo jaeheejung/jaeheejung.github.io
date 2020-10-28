@@ -13,7 +13,7 @@ Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 
 #### Working Papers
 
-Jung, Jae-Hee and Margit Tavits. "[Do Referendums Change Voter Attitudes?](https://www.dropbox.com/s/s63cf7b4rnsbkxe/JungTavits_referendum.pdf?dl=0)" _Revise and resubmit.
+Jung, Jae-Hee and Margit Tavits. "[Do Referendums Change Voter Attitudes?](https://www.dropbox.com/s/s63cf7b4rnsbkxe/JungTavits_referendum.pdf?dl=0)" _Revise and resubmit_.
 
 Jung, Jae-Hee and Margit Tavits. "[Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality](https://www.dropbox.com/s/3onr80kvfohkwyp/JungTavits_counterstereotypes.pdf?dl=0)."
 
