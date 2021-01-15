@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 ---
 
 My primary research agenda is on morality in politics, specifically moral rhetoric in party competition. I examine how moral rhetoric looks like in party campaigns, what its effects are on voters, and how voters think of moral argumentation, among other things. I study these topics from a comparative perspective. I am working on a book manuscript on moral rhetoric in party campaigns.
