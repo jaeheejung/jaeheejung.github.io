@@ -17,7 +17,7 @@ Jung, Jae-Hee and Margit Tavits. "[Do Referendums Change Voter Attitudes?](https
 
 Jung, Jae-Hee and Margit Tavits. "[Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality](https://www.dropbox.com/s/cfh8kwc5r8swjg8/JungTavits_counterstereotypes.pdf?dl=0)."
 
-Jung, Jae-Hee. "Voters' Preferences for Moral Representation."
+Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
 
 #### Book Manuscript
 
