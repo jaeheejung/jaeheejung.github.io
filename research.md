@@ -5,7 +5,7 @@ title: Research
 
 #### Publications
 
-Jung, Jae-Hee and Margit Tavits. "Do Referendum Results Change Norm Perceptions and Personal Opinions?" _Accepted at Electoral Studies_.
+Jung, Jae-Hee and Margit Tavits. 2021. "Do Referendum Results Change Norm Perceptions and Personal Opinions?" _Electoral Studies_ 71: 102307.
 
 Jung, Jae-Hee and Zeynep Somer-Topcu. 2020. "[United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions](https://doi.org/10.1080/17457289.2020.1839470)." _Journal of Elections, Public Opinion & Parties_. https://<i></i>doi.org/10.1080/17457289.2020.1839470. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JJXQLF)
 
