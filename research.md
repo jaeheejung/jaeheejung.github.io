@@ -13,12 +13,12 @@ Jung, Jae-Hee and Margit Tavits. 2021. "[Valence Attacks Harm the Electoral Perf
 
 Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12476)." _American Journal of Political Science_ 64(2): 341-355. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6KPFOK) (Winner of the Best Paper Award at the [2018 Manifesto Corpus Conference](https://manifesto-project.wzb.eu/conference-2018))
 
-#### Working Papers
+#### Work in Progress
 
 Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality." _Under review_.
 
 Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
 
-#### Book Manuscript
+Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
 
-Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_.
+Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. "Does Media Coverage of Banking Scandals Increase Preferences for Financial Regulation?"
