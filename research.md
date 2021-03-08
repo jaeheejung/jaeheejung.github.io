@@ -21,4 +21,4 @@ Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
 
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
 
-Culpepper, Pepper, Jae-Hee Jung, Taeku Le. "Does Media Coverage of Bank Scandals Increase Preferences for Financial Regulation?"
+Culpepper, Pepper, Jae-Hee Jung, Taeku Lee. "Does Media Coverage of Bank Scandals Increase Preferences for Financial Regulation?"
