@@ -7,7 +7,8 @@ My teaching interests are in comparative politics, political behavior, political
 
 #### University of Oxford
 
-* Survey Research Methods (graduate-level), Trinity 2021  
+* Survey Research Methods (graduate-level), Trinity 2021
+
 
 #### Washington University in St. Louis
 
