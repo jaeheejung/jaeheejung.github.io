@@ -5,9 +5,11 @@ title: Teaching
 
 My teaching interests are in comparative politics, political behavior, political psychology, and quantitative methods. I am passionate about teaching and have received formalized training in teaching through the [Preparation in Pedagogy](https://teachingcenter.wustl.edu/programs/graduate-students-postdocs/professional-development/preparation-in-pedagogy-pip/) program.
 
-#### Washington University in St. Louis
+#### University of Oxford
 
-_Instructor_
+* Survey Research Methods (graduate-level), Trinity 2021
+
+#### Washington University in St. Louis
 
 * PS102: Comparative Politics, Fall 2017 ([Evaluations](https://www.dropbox.com/s/iahufi84zhapknm/Evals-U25-102-14lv2lx.pdf?dl=0))  
 
