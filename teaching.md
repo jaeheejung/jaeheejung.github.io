@@ -10,9 +10,11 @@ My teaching interests are in comparative politics, political behavior, political
 * Survey Research Methods (graduate-level), Trinity 2021
 
 
+
 #### Washington University in St. Louis
 
 * PS102: Comparative Politics, Fall 2017 ([Evaluations](https://www.dropbox.com/s/iahufi84zhapknm/Evals-U25-102-14lv2lx.pdf?dl=0))
+
 
 
 #### Washington University in St. Louis (as teaching assistant)
