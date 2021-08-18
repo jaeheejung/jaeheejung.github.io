@@ -5,6 +5,12 @@ title: Teaching
 
 My teaching interests are in comparative politics, political behavior, political psychology, and quantitative methods. I am passionate about teaching and have received formalized training in teaching through the [Preparation in Pedagogy](https://teachingcenter.wustl.edu/programs/graduate-students-postdocs/professional-development/preparation-in-pedagogy-pip/) program.
 
+#### University of Houston
+
+* POLS6384: Survey Research Methods, Fall 2021
+
+
+
 #### University of Oxford
 
 * Survey Research Methods (graduate-level), Trinity 2021
