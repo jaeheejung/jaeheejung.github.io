@@ -17,7 +17,7 @@ Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. "Does Media Coverage of Bank Scandals Increase Preferences for Financial Regulation?" _Under review._
 
-Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality."
+Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality." _Under review._
 
 Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
 
