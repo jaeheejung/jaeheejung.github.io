@@ -21,4 +21,6 @@ Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gende
 
 Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric." _Under review._
 
+Jung, Jae-Hee. "Do Parties' Moral Rhetoric Persuade?"
+
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
