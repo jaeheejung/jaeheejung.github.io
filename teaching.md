@@ -7,6 +7,7 @@ My teaching interests are in comparative politics, political behavior, political
 
 #### University of Houston
 
+* POLS3311: Introduction to Comparative Politics, Spring 2022
 * POLS6384: Survey Research Methods, Fall 2021
 
 
