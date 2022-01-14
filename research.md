@@ -21,6 +21,6 @@ Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric." _Under review.
 
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. "Do Bank Scandals Activate Latent Opinion? Media Coverage and Preferences for Financial Regulation." _Under review._
 
-Jung, Jae-Hee. "Do Parties' Moral Rhetoric Persuade?"
+Jung, Jae-Hee. "The (Un)Persuasiveness of Parties' Moral Rhetoric."
 
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
