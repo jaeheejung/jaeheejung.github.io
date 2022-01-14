@@ -23,4 +23,6 @@ Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. "Do Bank Scandals Activate Laten
 
 Jung, Jae-Hee. "The (Un)Persuasiveness of Parties' Moral Rhetoric."
 
+Clifford, Scott and Jae-Hee Jung. "Are All Values Moral Values?"
+
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
