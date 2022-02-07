@@ -15,13 +15,13 @@ Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 
 #### Work in Progress
 
+Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. "Do Bank Scandals Activate Latent Opinion? Media Coverage and Preferences for Financial Regulation." _Revise and resubmit._
+
 Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality." _Under review._
 
-Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric." _Under review._
+Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
 
-Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. "Do Bank Scandals Activate Latent Opinion? Media Coverage and Preferences for Financial Regulation." _Under review._
-
-Jung, Jae-Hee. "The (Un)Persuasiveness of Parties' Moral Rhetoric."
+Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Division Between Parties and Non-Copartisan Voters?"
 
 Clifford, Scott and Jae-Hee Jung. "Are All Values Moral Values?"
 
