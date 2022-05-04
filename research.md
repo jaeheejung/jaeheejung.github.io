@@ -20,9 +20,9 @@ Financial Regulation." _Revise and resubmit._
 
 Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality." _Under review._
 
-Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
+Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Division Between Parties and Non-Copartisan Voters?" _Under review._
 
-Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Division Between Parties and Non-Copartisan Voters?"
+Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
 
 Clifford, Scott and Jae-Hee Jung. "Are All Values Moral Values?"
 
