@@ -22,7 +22,7 @@ Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gende
 
 Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?" _Under review._
 
-Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
+Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric." _Under review._
 
 Clifford, Scott and Jae-Hee Jung. "Are All Values Moral Values?"
 
