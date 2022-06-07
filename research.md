@@ -16,7 +16,7 @@ Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 #### Work in Progress
 
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. "Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on
-Financial Regulation." _Revise and resubmit._
+Financial Regulation." _Conditionally accepted in the AJPS._
 
 Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality." _Under review._
 
