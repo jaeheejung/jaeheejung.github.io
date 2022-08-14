@@ -26,7 +26,7 @@ Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "When Does Media 
 
 Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?" 
 
-Clifford, Scott and Jae-Hee Jung. "Are All Values Moral Values?"
+Clifford, Scott and Jae-Hee Jung. "Are Moral Values Uniquely Divisive?"
 
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
 
