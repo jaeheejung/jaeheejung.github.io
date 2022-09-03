@@ -6,7 +6,7 @@ title: Research
 #### Publications
 
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. "Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on
-Financial Regulation." _Accepted in the AJPS._
+Financial Regulation." _Forthcoming in the American Journal of Political Science._
 
 Jung, Jae-Hee and Zeynep Somer-Topcu. 2022. "[United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions](https://doi.org/10.1080/17457289.2020.1839470)." _Journal of Elections, Public Opinion & Parties_ 32(3): 596-614. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JJXQLF)
 
