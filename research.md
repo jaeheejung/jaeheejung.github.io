@@ -30,4 +30,4 @@ Jung, Jae-Hee and Scott Clifford. "Are Moral Values Uniquely Divisive?"
 
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
 
-Culpepper, Pepper, Jae-Hee Jung, Taeku Lee, and Ryan Shandler. "If the System is Rigged, Does It Matter? Fairness, Media Coverage of Inequality, and Redistributive Preferences"
+Culpepper, Pepper, Jae-Hee Jung, Taeku Lee, and Ryan Shandler. "If the System is Rigged, Does It Matter? Fairness, Media Coverage of Inequality, and Redistributive Preferences."
