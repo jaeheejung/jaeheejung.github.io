@@ -24,7 +24,7 @@ Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and N
 
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "When Does Media Coverage Have Durable Effects on Policy Attitudes?"
 
-Jung, Jae-Hee and Margit Tavits. "Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality."
+Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. (book manuscript)
 
 Jung, Jae-Hee and Scott Clifford. "Are Moral Values Uniquely Divisive?"
 
