@@ -22,6 +22,8 @@ Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric." _Under review.
 
 Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?" _Under review._ 
 
+Culpepper, Pepper, Jae-Hee Jung, Taeku Lee, and Ryan Shandler. "Media Coverage of Inequality, Fairness Considerations, and Support for Redistribution in Six Countries." _Under review._
+
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "When Does Media Coverage Have Durable Effects on Policy Attitudes?"
 
 Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. (book manuscript)
@@ -29,5 +31,3 @@ Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gende
 Jung, Jae-Hee and Scott Clifford. "Are Moral Values Uniquely Divisive?"
 
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
-
-Culpepper, Pepper, Jae-Hee Jung, Taeku Lee, and Ryan Shandler. "If the System is Rigged, Does It Matter? Fairness, Media Coverage of Inequality, and Redistributive Preferences."
