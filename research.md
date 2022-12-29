@@ -18,6 +18,8 @@ Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 
 #### Work in Progress
 
+Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. (book manuscript) _Contract in progress with Elements in Gender & Politics at Cambridge University Press._
+
 Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric." _Under review._
 
 Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?" _Under review._ 
@@ -25,8 +27,6 @@ Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and N
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Inequality, Fairness Considerations, and Support for Redistribution in Six Countries." _Under review._
 
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "When Does Media Coverage Have Durable Effects on Policy Attitudes?"
-
-Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. (book manuscript)
 
 Jung, Jae-Hee and Scott Clifford. "Are Moral Values Uniquely Divisive?"
 
