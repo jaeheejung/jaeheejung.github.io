@@ -31,3 +31,5 @@ Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "When Does Media Coverage Have Durable Effects on Policy Attitudes?"
 
 Jung, Jae-Hee and Scott Clifford. "Are Moral Values Uniquely Divisive?"
+
+Jung, Jae-Hee, Pepper Culpepper, and Taeku Lee. "Expressive or Engaging? Negative Emotions and Political Behavior in Policy Contexts."
