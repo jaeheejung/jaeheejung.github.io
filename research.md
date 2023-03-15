@@ -16,17 +16,19 @@ Jung, Jae-Hee and Margit Tavits. 2021. "[Valence Attacks Harm the Electoral Perf
 
 Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12476)." _American Journal of Political Science_ 64(2): 341-355. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6KPFOK) (Winner of the Best Paper Award at the [2018 Manifesto Corpus Conference](https://manifesto-project.wzb.eu/conference-2018))
 
-#### Work in Progress
+#### Work in Progress: Books
 
-Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. (book manuscript) _Under contract with Elements in Gender & Politics at Cambridge University Press._
+Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. _Under contract with Elements in Gender & Politics at Cambridge University Press._
+
+Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_.
+
+#### Work in Progress: Papers
 
 Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?" _R&R._ 
 
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Inequality, Fairness Considerations, and Support for Redistribution in Six Countries."
 
 Jung, Jae-Hee. "Voters' Preferences for Parties' Moral Rhetoric."
-
-Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_. (book manuscript)
 
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "When Does Media Coverage Have Durable Effects on Policy Attitudes?"
 
