@@ -18,7 +18,7 @@ Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 
 #### Work in Progress: Books
 
-Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. _Under contract with Elements in Gender & Politics at Cambridge University Press._
+Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. (Under contract with Elements in Gender & Politics at Cambridge University Press.)
 
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_.
 
