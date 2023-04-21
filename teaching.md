@@ -9,6 +9,7 @@ My teaching interests are in comparative politics, political behavior, and surve
 
 * POLS3311: Introduction to Comparative Politics, Spring 2022/2023
 * POLS3396: Comparative Political Behavior, Spring 2023
+* QSS4393: Quantitative Social Science Research Project (Independent Study), Spring 2023
 * POLS6396: Comparative Political Behavior, Fall 2022
 * POLS6384: Survey Research Methods, Fall 2021
 
