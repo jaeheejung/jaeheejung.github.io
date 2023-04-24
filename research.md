@@ -26,9 +26,9 @@ Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_.
 
 Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?" _R&R._ 
 
-Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Inequality, Fairness Considerations, and Support for Redistribution in Six Countries."
+Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Corporate Scandals and Durable Shifts in Policy Attitudes." _Under reivew._
 
-Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "When Does Media Coverage Have Durable Effects on Policy Attitudes?"
+Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Inequality, Fairness Considerations, and Support for Redistribution in Six Countries."
 
 Jung, Jae-Hee and Scott Clifford. "Are Moral Values Uniquely Divisive?"
 
