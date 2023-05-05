@@ -28,7 +28,7 @@ Jung, Jae-Hee. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and N
 
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Corporate Scandals and Durable Shifts in Policy Attitudes." _Under review._
 
-Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Inequality, Fairness Considerations, and Support for Redistribution in Six Countries."
+Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "'The Economy is Rigged': Inequality Narratives and Support for Redistribution in Six Countries."
 
 Jung, Jae-Hee and Scott Clifford. "Are Moral Values Uniquely Divisive?"
 
