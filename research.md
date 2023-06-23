@@ -26,10 +26,10 @@ Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_.
 
 #### Work in Progress: Papers
 
-Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Corporate Scandals and Durable Shifts in Policy Attitudes." _Under review._
-
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "'The Economy is Rigged': Inequality Narratives and Support for Redistribution in Six Countries." _Under review._
 
-Jung, Jae-Hee and Scott Clifford. "Are Moral Values Uniquely Divisive?"
+Jung, Jae-Hee and Scott Clifford. "Varieties of Values: Moral Values Are Uniquely Divisive."
+
+Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Corporate Scandals and Durable Shifts in Policy Attitudes."
 
 Jung, Jae-Hee, Pepper Culpepper, and Taeku Lee. "Expressive or Engaging? Negative Emotions and Political Behavior in Policy Contexts."
