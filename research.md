@@ -5,7 +5,7 @@ title: Research
 
 #### Publications
 
-Jung, Jae-Hee. Forthcoming. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?" _Electoral Studies._ 
+Jung, Jae-Hee. Forthcoming. "Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?" _Electoral Studies_. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZQHBBO) 
 
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. 2023. "[Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on
 Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." _American Journal of Political Science_ https://doi.org/10.1111/ajps.12752. [[Dataverse]](https://doi.org/10.7910/DVN/GTSYTZ)
