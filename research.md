@@ -12,7 +12,7 @@ Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." 
 
 Jung, Jae-Hee and Zeynep Somer-Topcu. 2022. "[United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions](https://doi.org/10.1080/17457289.2020.1839470)." _Journal of Elections, Public Opinion & Parties_ 32(3): 596-614. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JJXQLF)
 
-Jung, Jae-Hee and Margit Tavits. 2021. "[Do Referendum Results Change Norm Perceptions and Personal Opinions?](https://www.sciencedirect.com/science/article/pii/S0261379421000287)" _Electoral Studies_ 71: 102307. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YHOCO8)
+Jung, Jae-Hee and Margit Tavits. 2021. "[Do Referendum Results Change Norm Perceptions and Personal Opinions?](https://doi.org/10.1016/j.electstud.2021.102307)" _Electoral Studies_ 71: 102307. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YHOCO8)
 
 Jung, Jae-Hee and Margit Tavits. 2021. "[Valence Attacks Harm the Electoral Performance of the Left but Not the Right](https://doi.org/10.1086/709299)." _Journal of Politics_ 83(1): 277-290. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml;jsessionid=6be1e4de9fa24c22a5b7981e7e1d?persistentId=doi%3A10.7910%2FDVN%2FHMI4WY&version=&q=&fileTypeGroupFacet=&fileAccess=Public&fileSortField=type)
 
