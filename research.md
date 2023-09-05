@@ -20,7 +20,7 @@ Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 
 #### Work in Progress: Books
 
-Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. (Under contract with Elements in Gender & Politics at Cambridge University Press.)
+Jung, Jae-Hee and Margit Tavits. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_. (Revised and Resubmitted to Elements in Gender & Politics at Cambridge University Press.)
 
 Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_.
 
@@ -29,7 +29,5 @@ Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_.
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "'The Economy is Rigged': Inequality Narratives and Support for Redistribution in Six Countries." _Under review._
 
 Jung, Jae-Hee and Scott Clifford. "Varieties of Values: Moral Values Are Uniquely Divisive." _Under review._
-
-Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "Media Coverage of Corporate Scandals and Durable Shifts in Policy Attitudes."
 
 Jung, Jae-Hee, Pepper Culpepper, and Taeku Lee. "Expressive or Engaging? Negative Emotions and Political Behavior in Policy Contexts."
