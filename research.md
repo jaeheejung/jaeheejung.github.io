@@ -3,9 +3,11 @@ layout: page
 title: Research
 ---
 
-#### Publications
+#### Publications: Books
 
 Jung, Jae-Hee and Margit Tavits. Accepted. _Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_ (Elements in Gender and Politics). Cambridge University Press.
+
+#### Publications: Articles
 
 Jung, Jae-Hee. 2023. "[Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?](https://doi.org/10.1016/j.electstud.2023.102640)" _Electoral Studies_ 84: 102640. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZQHBBO) 
 
