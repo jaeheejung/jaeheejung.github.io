@@ -21,15 +21,3 @@ Jung, Jae-Hee and Margit Tavits. 2021. "[Do Referendum Results Change Norm Perce
 Jung, Jae-Hee and Margit Tavits. 2021. "[Valence Attacks Harm the Electoral Performance of the Left but Not the Right](https://doi.org/10.1086/709299)." _Journal of Politics_ 83(1): 277-290. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml;jsessionid=6be1e4de9fa24c22a5b7981e7e1d?persistentId=doi%3A10.7910%2FDVN%2FHMI4WY&version=&q=&fileTypeGroupFacet=&fileAccess=Public&fileSortField=type)
 
 Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12476)." _American Journal of Political Science_ 64(2): 341-355. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6KPFOK) (Winner of the Best Paper Award at the [2018 Manifesto Corpus Conference](https://manifesto-project.wzb.eu/conference-2018))
-
-#### Work in Progress: Books
-
-Jung, Jae-Hee. _Moral Rhetoric in Party Campaigns_.
-
-#### Work in Progress: Papers
-
-Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. "'The Economy is Rigged': Inequality Narratives and Support for Redistribution in Six Countries." _R&R._
-
-Jung, Jae-Hee and Scott Clifford. "Varieties of Values: Moral Values Are Uniquely Divisive." _R&R._
-
-Jung, Jae-Hee, Pepper Culpepper, and Taeku Lee. "Expressive or Engaging? Negative Emotions and Participation in Policy Contexts."
