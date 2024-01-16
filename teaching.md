@@ -5,13 +5,13 @@ title: Teaching
 
 My teaching interests are in comparative politics, political behavior, and survey research methods. I am passionate about teaching and have received formalized training in teaching through the [Preparation in Pedagogy](https://teachingcenter.wustl.edu/programs/graduate-students-postdocs/professional-development/preparation-in-pedagogy-pip/) program.
 
-#### University of Houston
+#### University of Houston (since Fall 2021)
 
-* POLS3311: Introduction to Comparative Politics, Spring 2022/2023
-* POLS3396: Comparative Political Behavior, Spring 2023
-* QSS4393: Quantitative Social Science Research Project (Independent Study), Spring 2023
-* POLS6396: Comparative Political Behavior, Fall 2022
-* POLS6384: Survey Research Methods, Fall 2021
+* POLS3311: Introduction to Comparative Politics
+* POLS3396: Comparative Political Behavior
+* QSS4393: Quantitative Social Science Research Project (Independent Study)
+* POLS6396: Comparative Political Behavior
+* POLS6384: Survey Research Methods
 
 
 
