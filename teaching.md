@@ -8,10 +8,10 @@ My teaching interests are in comparative politics, political behavior, and surve
 #### University of Houston (since Fall 2021)
 
 * POLS3311: Introduction to Comparative Politics
-* POLS3396: Comparative Political Behavior
+* POLS3334/3396: Comparative Political Behavior
 * QSS4393: Quantitative Social Science Research Project (Independent Study)
-* POLS6396: Comparative Political Behavior
 * POLS6384: Survey Research Methods
+* POLS6396: Comparative Political Behavior
 
 
 
