@@ -5,7 +5,7 @@ title: Research
 
 #### Publications: Books
 
-Jung, Jae-Hee and Margit Tavits. 2024. [_Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_](https://doi.org/10.1017/9781009406628) (Elements in Gender and Politics). Cambridge University Press.
+Jung, Jae-Hee and Margit Tavits. 2024. [_Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_](https://doi.org/10.1017/9781009406628) (Elements in Gender and Politics). Cambridge: Cambridge University Press.
 
 #### Publications: Articles
 
