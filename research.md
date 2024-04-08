@@ -11,10 +11,10 @@ Jung, Jae-Hee and Margit Tavits. 2024. [_Counter-Stereotypes and Attitudes Towar
 
 Jung, Jae-Hee and Scott Clifford. Forthcoming. "[Varieties of Values: Moral Values Are Uniquely Divisive](https://www.dropbox.com/scl/fi/bilxijdgcw0pi09fohnwo/JungClifford_moralvalues.pdf?rlkey=pc2yj06luglo4lai2vnerorko&dl=0)" _American Political Science Review_ [[Appendix]](https://www.dropbox.com/scl/fi/51miosz6gtk448345f6y8/JungClifford_moralvalues_OA.pdf?rlkey=ilzd0ukuh1u4n5n4g0mn2ux2r&dl=0)
 
-Jung, Jae-Hee. 2023. "[Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?](https://doi.org/10.1016/j.electstud.2023.102640)" _Electoral Studies_ 84: 102640. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZQHBBO) 
-
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. 2023. "[Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on
-Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." _American Journal of Political Science_ https://doi.org/10.1111/ajps.12752. [[Dataverse]](https://doi.org/10.7910/DVN/GTSYTZ)
+Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." _American Journal of Political Science_ 68(2): 427-444. [[Dataverse]](https://doi.org/10.7910/DVN/GTSYTZ)
+
+Jung, Jae-Hee. 2023. "[Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?](https://doi.org/10.1016/j.electstud.2023.102640)" _Electoral Studies_ 84: 102640. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZQHBBO) 
 
 Jung, Jae-Hee and Zeynep Somer-Topcu. 2022. "[United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions](https://doi.org/10.1080/17457289.2020.1839470)." _Journal of Elections, Public Opinion & Parties_ 32(3): 596-614. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JJXQLF)
 
