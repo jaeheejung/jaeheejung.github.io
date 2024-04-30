@@ -9,7 +9,7 @@ Jung, Jae-Hee and Margit Tavits. 2024. [_Counter-Stereotypes and Attitudes Towar
 
 #### Publications: Articles
 
-Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. Forthcoming. "'The Economy is Rigged': Inequality Narratives and Support for Redistribution in Six Countries." Comparative Political Studies.
+Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. Forthcoming. "'The Economy is Rigged': Inequality Narratives and Support for Redistribution in Six Countries." _Comparative Political Studies_.
 
 Jung, Jae-Hee and Scott Clifford. Forthcoming. "[Varieties of Values: Moral Values Are Uniquely Divisive](https://www.dropbox.com/scl/fi/bilxijdgcw0pi09fohnwo/JungClifford_moralvalues.pdf?rlkey=pc2yj06luglo4lai2vnerorko&dl=0)" _American Political Science Review_ [[Appendix]](https://www.dropbox.com/scl/fi/51miosz6gtk448345f6y8/JungClifford_moralvalues_OA.pdf?rlkey=ilzd0ukuh1u4n5n4g0mn2ux2r&dl=0)
 
