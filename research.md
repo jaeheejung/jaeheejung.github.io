@@ -24,7 +24,7 @@ Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. Forthcoming. "'Th
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. 2024. "[Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on
 Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." _American Journal of Political Science_ 68(2): 427-444. [[Dataverse]](https://doi.org/10.7910/DVN/GTSYTZ)
 
-#### Norms and Counter-Stereotypes
+#### Social Norms
 
 Jung, Jae-Hee and Margit Tavits. 2024. [_Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_](https://doi.org/10.1017/9781009406628) (Elements in Gender and Politics). Cambridge: Cambridge University Press.
 
