@@ -15,6 +15,8 @@ Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https:/
 
 Jung, Jae-Hee and Zeynep Somer-Topcu. 2022. "[United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions](https://doi.org/10.1080/17457289.2020.1839470)." _Journal of Elections, Public Opinion & Parties_ 32(3): 596-614. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JJXQLF)
 
+* Blog post on _LSE British Politics and Policy_ ([link]([https://journalistsresource.org/economics/regulation-bank-scandal/](https://blogs.lse.ac.uk/politicsandpolicy/voter-perceptions-policy-positions/)))
+
 Jung, Jae-Hee and Margit Tavits. 2021. "[Valence Attacks Harm the Electoral Performance of the Left but Not the Right](https://doi.org/10.1086/709299)." _Journal of Politics_ 83(1): 277-290. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml;jsessionid=6be1e4de9fa24c22a5b7981e7e1d?persistentId=doi%3A10.7910%2FDVN%2FHMI4WY&version=&q=&fileTypeGroupFacet=&fileAccess=Public&fileSortField=type)
 
 #### Media Frames
@@ -24,7 +26,7 @@ Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. 2024. "['The Econ
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. 2024. "[Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on
 Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." _American Journal of Political Science_ 68(2): 427-444. [[Dataverse]](https://doi.org/10.7910/DVN/GTSYTZ) 
 
-* Covered in _The Journalist's Resource_, April 4, 2023 ([link](https://journalistsresource.org/economics/regulation-bank-scandal/))
+* Covered in _The Journalist's Resource_ ([link](https://journalistsresource.org/economics/regulation-bank-scandal/))
 
 #### Social Norms
 
