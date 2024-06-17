@@ -24,8 +24,10 @@ Jung, Jae-Hee and Margit Tavits. 2021. "[Valence Attacks Harm the Electoral Perf
 Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. 2024. "['The Economy is Rigged': Inequality Narratives, Fairness, and Support for Redistribution in Six Countries](https://doi.org/10.1177/00104140241252072)." _Comparative Political Studies_ https://doi.org/10.1177/00104140241252072. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XQIEUX)
 
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. 2024. "[Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on
-Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." _American Journal of Political Science_ 68(2): 427-444. [[Dataverse]](https://doi.org/10.7910/DVN/GTSYTZ) 
+Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." _American Journal of Political Science_ 68(2): 427-444. [[Dataverse]](https://doi.org/10.7910/DVN/GTSYTZ)
+
 * Covered in _The Journalist's Resource_ ([link](https://journalistsresource.org/economics/regulation-bank-scandal/))
+
 
 #### Social Norms
 
