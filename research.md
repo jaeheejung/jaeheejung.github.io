@@ -25,7 +25,6 @@ Culpepper, Pepper, Ryan Shandler, Jae-Hee Jung, and Taeku Lee. 2024. "['The Econ
 
 Culpepper, Pepper, Jae-Hee Jung, and Taeku Lee. 2024. "[Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on
 Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." _American Journal of Political Science_ 68(2): 427-444. [[Dataverse]](https://doi.org/10.7910/DVN/GTSYTZ) 
-
 * Covered in _The Journalist's Resource_ ([link](https://journalistsresource.org/economics/regulation-bank-scandal/))
 
 #### Social Norms
