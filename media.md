@@ -3,6 +3,8 @@ layout: page
 title: Media
 ---
 
+_Political Science Now_: ''[Different Values, Different Consequences](https://politicalsciencenow.com/different-values-different-consequences/)'' (July 5, 2024)
+
 _The Journalist's Resource_: ''[How news coverage affects views of bank regulation after financial scandals](https://journalistsresource.org/economics/regulation-bank-scandal/)'' (April 4, 2023)
 
 _LSE British Politics and Policy_: ''[Brexit: how intra-party unity helps voters understand and feel certain about party policy positions](https://blogs.lse.ac.uk/politicsandpolicy/voter-perceptions-policy-positions/)'' (December 7, 2020)
