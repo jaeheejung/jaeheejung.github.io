@@ -94,4 +94,4 @@ yelp:
 google-scholar:
   name: "GoogleScholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fa-graduation-cap"
+  icon: "fa-google-scholar"
