@@ -5,7 +5,7 @@ title: Research
 
 #### Morality in Politics
 
-Jung, Jae-Hee and Scott Clifford. 2024. "[Varieties of Values: Moral Values Are Uniquely Divisive](https://www.cambridge.org/core/journals/american-political-science-review/article/varieties-of-values-moral-values-are-uniquely-divisive/B4A9A0169B28268CA0BA8850F86BE737)." _American Political Science Review_ https://doi.org/10.1017/S0003055424000443. [[Dataverse]](https://doi.org/10.7910/DVN/MLJQQN)
+Jung, Jae-Hee and Scott Clifford. 2025. "[Varieties of Values: Moral Values Are Uniquely Divisive](https://www.cambridge.org/core/journals/american-political-science-review/article/varieties-of-values-moral-values-are-uniquely-divisive/B4A9A0169B28268CA0BA8850F86BE737)." _American Political Science Review_ 119(1): 462-478. [[Dataverse]](https://doi.org/10.7910/DVN/MLJQQN)
 
 Jung, Jae-Hee. 2023. "[Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?](https://doi.org/10.1016/j.electstud.2023.102640)" _Electoral Studies_ 84: 102640. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZQHBBO) 
 
