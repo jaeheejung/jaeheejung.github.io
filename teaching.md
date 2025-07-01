@@ -5,7 +5,7 @@ title: Teaching
 
 
 
-#### University of Houston (Fall 2021-Spring 2025)
+#### University of Houston
 
 * POLS3311: Introduction to Comparative Politics
 * POLS3334/3396: Comparative Political Behavior
@@ -17,19 +17,19 @@ title: Teaching
 
 #### University of Oxford
 
-* Survey Research Methods (graduate-level), Trinity 2021
+* Survey Research Methods (graduate-level)
 
 
 
 #### Washington University in St. Louis
 
-* PS102: Comparative Politics, Fall 2017
+* PS102: Comparative Politics
 
 
 
 #### Washington University in St. Louis (as teaching assistant)
 
-* PS363: Quantitative Political Methodology (Instructor: Jacob Montgomery), Fall 2016
-* PS102: Introduction to Comparative Politics (Instructor: Brian F. Crisp), Spring 2016
-* PS321: Comparative European Politics (Instructor: Margit Tavits), Fall 2015
-* PS358: Law, Politics, and Society (Instructor: James L. Gibson), Spring 2015
+* PS363: Quantitative Political Methodology (Instructor: Jacob Montgomery)
+* PS102: Introduction to Comparative Politics (Instructor: Brian F. Crisp)
+* PS321: Comparative European Politics (Instructor: Margit Tavits)
+* PS358: Law, Politics, and Society (Instructor: James L. Gibson)
