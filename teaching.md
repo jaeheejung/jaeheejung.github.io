@@ -5,7 +5,7 @@ title: Teaching
 
 
 
-#### University of Houston (since Fall 2021)
+#### University of Houston (Fall 2021-Spring 2025)
 
 * POLS3311: Introduction to Comparative Politics
 * POLS3334/3396: Comparative Political Behavior
