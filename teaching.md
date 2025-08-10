@@ -5,6 +5,12 @@ title: Teaching
 
 
 
+#### Rice University
+
+* POLI520: Comparative Politics Core Seminar
+
+
+  
 #### University of Houston
 
 * POLS3311: Introduction to Comparative Politics
