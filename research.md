@@ -9,7 +9,7 @@ Jung, Jae-Hee and Scott Clifford. 2025. "[Varieties of Values: Moral Values Are 
 
 Jung, Jae-Hee. 2023. "[Does Moral Rhetoric Fuel or Reduce Divides Between Parties and Non-Copartisan Voters?](https://doi.org/10.1016/j.electstud.2023.102640)" _Electoral Studies_ 84: 102640. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZQHBBO) 
 
-Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12476)." _American Journal of Political Science_ 64(2): 341-355. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6KPFOK) (Winner of the Best Paper Award at the [2018 Manifesto Corpus Conference](https://manifesto-project.wzb.eu/conference-2018))
+Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12476)." _American Journal of Political Science_ 64(2): 341-355. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6KPFOK)
 
 #### Party Messages
 
