@@ -26,6 +26,6 @@ Financial Regulation](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12752)." 
 
 #### Social Norms
 
-Jung, Jae-Hee and Margit Tavits. 2024. [_Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_](https://doi.org/10.1017/9781009406628) (Elements in Gender and Politics). Cambridge: Cambridge University Press.
+Jung, Jae-Hee and Margit Tavits. 2024. [_Counter-Stereotypes and Attitudes Toward Gender and LGBTQ Equality_](https://doi.org/10.1017/9781009406628) (Elements in Gender and Politics). Cambridge: Cambridge University Press. [[Amazon]](https://www.amazon.com/Counter-Stereotypes-Attitudes-Equality-Elements-Politics/dp/1009406655/ref=sr_1_1?crid=CBVDOMDBATK1&dib=eyJ2IjoiMSJ9.WnoXOp_h2uyzxFikmq1f-g.P4yrlFvPBxW-t0DhFEcEWLa_ro4L0GWmsCQkpp-5yRw&dib_tag=se&keywords=counter-stereotypes+and+attitudes+toward+gender&qid=1755282309&sprefix=counter-stereotypes+and+attitudes+toward+gend%2Caps%2C180&sr=8-1)
 
 Jung, Jae-Hee and Margit Tavits. 2021. "[Do Referendum Results Change Norm Perceptions and Personal Opinions?](https://doi.org/10.1016/j.electstud.2021.102307)" _Electoral Studies_ 71: 102307. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YHOCO8)
