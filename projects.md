@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Book
 ---
 
-My primary research agenda is on morality in politics, specifically moral rhetoric in party competition. I examine how moral rhetoric looks like in party campaigns, what its effects are on voters, and how voters think of moral argumentation, among other things. I study these topics from a comparative perspective, with particular attention to the UK context.
+## Shared Morals: The Role of Moral Rhetoric in Party Politics (in production at Cambridge University Press)
 
-Outside of morality and politics, I research other aspects of party competition, such as valence attacks and party unity. These projects investigate previously under-explored aspects of parties' messages and voters' responses to those messages. 
-
-I am also part of a project titled "BANK-LASH: Banks, Popular Backlash, and the Post-Crisis Politics of Financial Regulation" (Principal Investigator: Pepper Culpepper), funded by the European Research Council. We have conducted nationally representative panel surveys and survey experiments in six countries (Australia, France, Germany, Switzerland, the UK, and the US) to examine the effects of media coverage on the mass public's attitudes about financial regulation, redistribution, and other sociopolitical issues. You can check out our website [here](https://banklash.web.ox.ac.uk).
-
-Moreover, I have a separate line of research on norms, stereotypes, and public opinion. It investigates how signals about social norms and counter-stereotypes affect people's attitudes on issues such as abortion, gender equality, and LGBTQ rights.
+Political parties often use moral arguments—judgements about fundamental notions of right and wrong—to frame and explain their political views. Morality is an aspect of politics that people are regularly exposed to in real life. But what role does moral rhetoric play in party politics? And how does it shape our views? Focusing on Western democracies, Shared Morals examines what moral rhetoric looks like, how it affects voters, and how it is relevant for democratic representation. Drawing from studies on party competition, political behavior, and moral and political psychology, the book illustrates that moral rhetoric is an integral aspect of party communication. Yet, unlike many current narratives in the scholarly and policymaking worlds, Shared Morals draws attention to the potential for moral rhetoric to highlight common grounds, bridge differences, and bring people together.
