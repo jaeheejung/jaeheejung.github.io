@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shared-Morals
+title: Shared Morals
 ---
 
 ### _Shared Morals: The Role of Moral Rhetoric in Party Politics_ 
