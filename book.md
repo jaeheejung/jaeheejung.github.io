@@ -3,8 +3,8 @@ layout: page
 title: Shared Morals
 ---
 
-### [_Shared Morals: The Role of Moral Rhetoric in Party Politics_](https://www.cambridge.org/core/books/shared-morals/8A9FA1BB57A7F3507EF2B1805DB2083E) 
-#### (in production at Cambridge University Press)
+### _Shared Morals: The Role of Moral Rhetoric in Party Politics_
+#### (in production at [Cambridge University Press](https://www.cambridge.org/core/books/shared-morals/8A9FA1BB57A7F3507EF2B1805DB2083E)) [[Amazon]](https://www.amazon.com/Shared-Morals-Moral-Rhetoric-Politics/dp/1009667920)
 
 Political parties often use moral arguments—judgements about fundamental notions of right and wrong—to frame and explain their political views. Morality is an aspect of politics that people are regularly exposed to in real life. But what role does moral rhetoric play in party politics? And how does it shape our views? Focusing on Western democracies, _Shared Morals_ examines what moral rhetoric looks like, how it affects voters, and how it is relevant for democratic representation. Drawing from studies on party competition, political behavior, and moral and political psychology, the book illustrates that moral rhetoric is an integral aspect of party communication. Yet, unlike many current narratives in the scholarly and policymaking worlds, _Shared Morals_ draws attention to the potential for moral rhetoric to highlight common grounds, bridge differences, and bring people together.
 
