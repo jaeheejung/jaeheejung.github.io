@@ -5,7 +5,7 @@ title: Research
 
 #### Morality in Politics
 
-Jung, Jae-Hee. Forthcoming. [_Shared Morals: The Role of Moral Rhetoric in Party Politics_](https://www.cambridge.org/core/books/shared-morals/8A9FA1BB57A7F3507EF2B1805DB2083E). Cambridge University Press. [[Amazon]](https://www.amazon.com/Shared-Morals-Moral-Rhetoric-Politics/dp/1009667920)
+Jung, Jae-Hee. Forthcoming. [_Shared Morals: The Role of Moral Rhetoric in Party Politics_](https://www.cambridge.org/core/books/shared-morals/8A9FA1BB57A7F3507EF2B1805DB2083E). Cambridge: Cambridge University Press. [[Amazon]](https://www.amazon.com/Shared-Morals-Moral-Rhetoric-Politics/dp/1009667920)
 
 Jung, Jae-Hee and Scott Clifford. 2025. "[Varieties of Values: Moral Values Are Uniquely Divisive](https://www.cambridge.org/core/journals/american-political-science-review/article/varieties-of-values-moral-values-are-uniquely-divisive/B4A9A0169B28268CA0BA8850F86BE737)." _American Political Science Review_ 119(1): 462-478. [[Dataverse]](https://doi.org/10.7910/DVN/MLJQQN)
 
