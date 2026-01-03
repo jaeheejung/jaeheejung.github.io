@@ -7,6 +7,7 @@ title: Teaching
 
 #### Rice University
 
+* POLI455: Political Behavior in Democratic Politics
 * POLI520: Comparative Politics Core Seminar
 
 
