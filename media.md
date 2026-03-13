@@ -3,6 +3,8 @@ layout: page
 title: Media
 ---
 
+_YouGov Methodology Matters_: ''[Using transition statements in online surveys](https://yougov.com/en-us/articles/54286-transition-statements-in-online-surveys)'' (March 11, 2026)
+
 _Political Science Now_: ''[Different Values, Different Consequences](https://politicalsciencenow.com/different-values-different-consequences/)'' (July 5, 2024)
 
 _The Journalist's Resource_: ''[How news coverage affects views of bank regulation after financial scandals](https://journalistsresource.org/economics/regulation-bank-scandal/)'' (April 4, 2023)
