@@ -4,7 +4,7 @@ title: Shared Morals
 ---
 
 ### _Shared Morals: The Role of Moral Rhetoric in Party Politics_
-#### (forthcoming at [Cambridge University Press](https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/comparative-politics/shared-morals-role-moral-rhetoric-party-politics#description)) [[Amazon](https://www.amazon.com/Shared-Morals-Moral-Rhetoric-Politics/dp/1009667920)]
+#### (at [Cambridge University Press](https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/comparative-politics/shared-morals-role-moral-rhetoric-party-politics#description)) [[Amazon](https://www.amazon.com/Shared-Morals-Moral-Rhetoric-Politics/dp/1009667920)]
 
 <p align="center">
   <img src="/img/9781009667920_Shared Morals_cover.jpg" alt="Jung 2026" width="300">
