@@ -3,6 +3,8 @@ layout: page
 title: Media
 ---
 
+_Fifteen Eighty Four_: ''[Morality and Political Communication](https://cambridgeblog.org/2026/03/morality-and-political-communication/?_thumbnail_id=53458)'' (March 23, 2026)
+
 _YouGov Methodology Matters_: ''[Using transition statements in online surveys](https://yougov.com/en-us/articles/54286-transition-statements-in-online-surveys)'' (March 11, 2026)
 
 _Political Science Now_: ''[Different Values, Different Consequences](https://politicalsciencenow.com/different-values-different-consequences/)'' (July 5, 2024)
