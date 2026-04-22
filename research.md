@@ -13,7 +13,7 @@ Jung, Jae-Hee. 2023. "[Does Moral Rhetoric Fuel or Reduce Divides Between Partie
 
 Jung, Jae-Hee. 2020. "[The Mobilizing Effect of Parties' Moral Rhetoric](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12476)." _American Journal of Political Science_ 64(2): 341-355. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6KPFOK)
 
-#### Party Messages
+#### Party Competition
 
 Jung, Jae-Hee and Zeynep Somer-Topcu. 2022. "[United We Stand, Divided We Fall? The Effects of Parties’ Brexit Rhetoric on Voters’ Perceptions of Party Positions](https://doi.org/10.1080/17457289.2020.1839470)." _Journal of Elections, Public Opinion & Parties_ 32(3): 596-614. [[Dataverse]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JJXQLF)
   
