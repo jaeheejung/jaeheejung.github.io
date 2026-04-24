@@ -16,5 +16,5 @@ Political parties often use moral arguments—judgements about fundamental notio
 - Chapter 2. Moral Rhetoric in Party Communication
 - Chapter 3. Does Moral Rhetoric Mobilize the Party Base?
 - Chapter 4. Does Moral Rhetoric Persuade Non-Supporters?
-- Chapter 5. [Moral Rhetoric as Moral Representation](https://www.dropbox.com/scl/fi/b1ui6t521vtfw61iqu8ya/Chap5-9781009667913book.pdf?rlkey=r7ua7g2a6o6f6b8yxyt57q39g&st=304s622a&dl=0)
+- [Chapter 5. Moral Rhetoric as Moral Representation](https://www.dropbox.com/scl/fi/b1ui6t521vtfw61iqu8ya/Chap5-9781009667913book.pdf?rlkey=r7ua7g2a6o6f6b8yxyt57q39g&st=304s622a&dl=0)
 - Chapter 6. Conclusion
