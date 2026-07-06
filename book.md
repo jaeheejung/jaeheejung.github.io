@@ -4,7 +4,7 @@ title: Shared Morals
 ---
 
 ### _Shared Morals: The Role of Moral Rhetoric in Party Politics_
-#### (at [Cambridge University Press](https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/comparative-politics/shared-morals-role-moral-rhetoric-party-politics#description) - discount code: JUNG25) [[Amazon](https://www.amazon.com/Shared-Morals-Moral-Rhetoric-Politics/dp/1009667920)] [[Blog](https://cambridgeblog.org/2026/03/morality-and-political-communication/?_thumbnail_id=53458)] [[Podcast](https://opinionsciencepodcast.com/episode/making-moral-arguments-with-jae-hee-jung/)]
+#### (at [Cambridge UP](https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/comparative-politics/shared-morals-role-moral-rhetoric-party-politics#description) - discount code: JUNG25) [[Amazon](https://www.amazon.com/Shared-Morals-Moral-Rhetoric-Politics/dp/1009667920)] [[Blog](https://cambridgeblog.org/2026/03/morality-and-political-communication/?_thumbnail_id=53458)] [[Podcast](https://opinionsciencepodcast.com/episode/making-moral-arguments-with-jae-hee-jung/)]
 
 <p align="center">
   <img src="/img/9781009667920_Shared Morals_cover.jpg" alt="Jung 2026" width="300">
