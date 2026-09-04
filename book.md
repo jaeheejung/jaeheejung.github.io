@@ -3,7 +3,7 @@ layout: page
 title: Shared Morals
 ---
 
-### _Shared Morals: The Role of Moral Rhetoric in Party Politics_ (2025)
+### _Shared Morals: The Role of Moral Rhetoric in Party Politics_ (2026)
 #### (at [Cambridge UP](https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/comparative-politics/shared-morals-role-moral-rhetoric-party-politics#description)) [[Amazon](https://www.amazon.com/Shared-Morals-Moral-Rhetoric-Politics/dp/1009667920)] [[Blog](https://cambridgeblog.org/2026/03/morality-and-political-communication/?_thumbnail_id=53458)] [[Podcast](https://opinionsciencepodcast.com/episode/making-moral-arguments-with-jae-hee-jung/)]
 
 <p align="center">
